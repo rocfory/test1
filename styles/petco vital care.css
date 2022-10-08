@@ -1,0 +1,33 @@
+.petco_vital_care {
+    display: flex;
+    position: relative;
+    height: 415px;
+}
+
+.petco_vital_care_info {
+    max-width: 480px;
+    text-align: left;
+    align-self: center;
+}
+
+.petco_vital_care_rectangle {
+    width: 514px;
+    height: 348px;
+    border-radius: 10px;
+    background: #F63D3D;
+    position: absolute;
+    bottom: 0;
+    right: 5vw;
+}
+
+.petco_vital_care_img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.petco_vital_care p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}

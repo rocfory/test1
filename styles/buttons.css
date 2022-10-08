@@ -1,0 +1,23 @@
+.button {
+    padding: 10px 45px;
+    border: none;
+    border-radius: 110px;
+    font-family: 'Poppins Medium', sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: #F63D3D;
+    box-shadow: 0 0 10px 1px rgba(246, 61, 61, 0.7);
+    cursor: pointer;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
+
+.button_title {
+    border: 2px solid #F63D3D;
+    background: transparent;
+    color: #F63D3D;
+    margin-left: 25px;
+    box-shadow: none;
+}

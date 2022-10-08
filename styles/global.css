@@ -1,0 +1,35 @@
+@import 'normalize.css';
+
+@import 'fonts.css';
+
+@import 'nav.css';
+
+@import 'header.css';
+
+@import 'buttons.css';
+
+@import 'features.css';
+
+@import 'top categories.css';
+
+@import 'petco vital care.css';
+
+@import 'best seller.css';
+
+@import 'guarantee.css';
+
+@import 'popular brands.css';
+
+@import 'last block.css';
+
+@import 'footer.css';
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
+

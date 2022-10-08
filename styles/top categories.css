@@ -1,0 +1,38 @@
+.top_categories {
+    text-align: center;
+    margin: 100px 0;
+}
+
+.top_categories_general {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top_categories h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+
+.top_categories span {
+    color: #F63D3D;
+}
+
+.top_categories p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+.top_categories a {
+    text-decoration: none;
+    color: black;
+}
+
+.top_categories a:hover {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+}
+

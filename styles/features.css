@@ -1,0 +1,42 @@
+.features {
+    background-color: #F6F6F6;
+    text-align: center;
+    padding: 60px 0;
+}
+
+.features_info  {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.features_support, .features_delivery, .features_security {
+    max-width: 250px
+}
+
+.features h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.features span {
+    color: #F63D3D;
+}
+
+.features h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #F63D3D;
+    margin: 10px;
+}
+
+.features p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin: 0;
+}

@@ -1,0 +1,32 @@
+.guarantee {
+    background-image: url('../images/guarantee\ background.png');
+    background-repeat: repeat-x;
+    background-position: bottom;
+    position: relative;
+}
+
+.guarantee_general {
+    max-width: 330px;
+    position: absolute;
+    bottom: 5vw;
+    right: 28vw;
+}
+
+.guarantee_cat {
+    position: relative;
+    left: 11vw;
+    vertical-align: bottom;
+}
+
+.guarantee h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.guarantee p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 20px;
+}

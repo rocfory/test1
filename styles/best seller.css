@@ -1,0 +1,39 @@
+.best_seller {
+    text-align: center;
+    margin: 100px 0;
+}
+
+.best_seller_general {
+    display: flex;
+    justify-content: space-between;
+}
+
+.best_seller h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+
+.best_seller span {
+    color: #F63D3D;
+}
+
+.best_seller h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0px 0 5px 0;
+}
+
+.best_seller p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0;
+    color: #F63D3D;
+}
+
+/* .best_seller img {
+    margin-bottom: 10px;
+} */

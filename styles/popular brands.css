@@ -1,0 +1,20 @@
+.popular_brands {
+    margin: 100px 0;
+    text-align: center;
+}
+
+.popular_brands h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 40px;
+}
+
+.popular_brands span {
+    color: #F63D3D;
+}
+
+.popular_brands_logo {
+    display: flex;
+    justify-content: space-between;
+}

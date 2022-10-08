@@ -1,0 +1,39 @@
+.last_block {
+    background-image: url(../images/last\ block_girl.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100%;
+    min-height: 550px;
+    position: relative;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.last_block_img {
+    position: absolute;
+    right: 10vw;
+    bottom: 2vw;
+}
+
+.last_block_info {
+    text-align: center;
+    max-width: 540px;
+}
+
+.last_block h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.last_block span {
+    color: #F63D3D;
+}
+
+.last_block p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 35px;
+}

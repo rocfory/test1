@@ -1,0 +1,55 @@
+header {
+    background: linear-gradient(298.2deg, rgba(251, 90, 0, 0.2) 28.63%, rgba(0, 0, 0, 0) 96.07%, rgba(249, 229, 57, 0.108) 96.07%), #FFC632;
+    height: 900px;
+    position: relative;
+}
+
+.header_ellipse {
+    position: absolute;
+    right: 1vw;
+}
+
+.header_cat {
+    position: absolute;
+    right: 8.5vw;
+    bottom: 0;
+}
+
+.header_dog {
+    position: absolute;
+    right: 11vw;
+    bottom: 0; 
+}
+
+.header_animal_picture {
+    vertical-align: bottom;
+}
+
+.header_general {
+    position: absolute;
+    top: 276px;
+    bottom: 307px;
+    width: 475px;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    text-transform: uppercase;
+    color: rgba(13, 13, 13, 1);
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.sub_title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px; 
+    letter-spacing: 1px;
+    color: rgba(13, 13, 13, 1);
+    margin-bottom: 35px;
+}
+

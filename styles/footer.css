@@ -1,0 +1,73 @@
+footer {
+    background-color: #F63D3D;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.footer_general {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    padding-bottom: 40px;
+    align-items: flex-start;
+}
+
+.footer_corporate, .footer_information, .footer_services {
+    display: flex;
+    flex-direction: column;
+}
+
+footer h3 {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+footer a {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+footer p {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+.footer_sm {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100px;
+}
+
+footer input {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    width: 310px;
+    height: 50px;
+    background-image: url(../icons/footer_mail.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}

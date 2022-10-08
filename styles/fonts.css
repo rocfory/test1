@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Montserrat Medium';
+    src: url('fonts/Montserrat-Medium.eot');
+    src: url('fonts/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Montserrat-Medium.woff') format('woff'),
+    url('fonts/Montserrat-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url('Montserrat-ExtraBold.eot');
+    src: url('Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('Montserrat-ExtraBold.woff') format('woff'),
+    url('Montserrat-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url('Roboto-Bold.eot');
+    src: url('Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Roboto-Bold.woff') format('woff'),
+    url('Roboto-Bold.ttf') format('truetype');
+    font-weight: normal;
+        font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins Regular';
+    src: url('Poppins-Regular.eot');
+    src: url('Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Poppins-Regular.woff') format('woff'),
+    url('Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins Medium';
+    src: url('Poppins-Medium.eot');
+    src: url('Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Poppins-Medium.woff') format('woff'),
+    url('Poppins-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
